@@ -6,7 +6,7 @@ public writtenbook(String title ,String author ,int npages ) {
 	this.npages=npages;
 	
 }
-public int getNpages() {
+public int gtNpages() {
 	return npages;
 }
 public String tostring() {
