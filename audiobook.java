@@ -7,7 +7,7 @@ public audiobook(String title, String author,int duration,String narrator) {
 	this.duration=duration;
 	this.narrator=narrator;
 }
-public int getDuration() {
+public int gtDuration() {
 	return duration;
 }
 public String getNarrator() {
